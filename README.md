@@ -1,5 +1,5 @@
 ## 🔗 PhD thesis
-- [Kappa](todo)
+- [Kappa](dt-kappa.pdf)
 
 ## Papers
 - Paper I : [Production Monitoring to Improve Test Suites](https://arxiv.org/abs/2012.01198)
